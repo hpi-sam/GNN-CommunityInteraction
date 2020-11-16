@@ -1,2 +1,3 @@
-# GNN-BastianLeoBerkay
-Repo fro Bastian, Leo and Berkay project
+# About
+Exploring Graphical Neural Networks for representing, predicting, and intervening in community interaction phenomena
+Members: Bastian, Leo and Berkay
